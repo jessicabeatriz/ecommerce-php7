@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'jessicabeatriz/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'jessicabeatriz/ecommerce-php7',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '0c32bcc9397ffc682c166c5868890f7f6b17f131',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'jessicabeatriz/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'jessicabeatriz/ecommerce-php7' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '0c32bcc9397ffc682c166c5868890f7f6b17f131',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
